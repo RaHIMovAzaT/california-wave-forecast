@@ -23,7 +23,7 @@
 ---
 
 ## 3. Структура данных и воспроизводимость
-Готовые датасеты размещены на общем Google Диске проекта: **[Скачать папку data (Google Drive)](https://drive.google.com/drive/folders/1tjiJlZNc9LBJvZY_r7tI8PC1_WNuGozP?usp=drive_link)**.
+Готовые датасеты размещены на общем Google Диске проекта: **[(Google Drive)](https://drive.google.com/drive/folders/1tjiJlZNc9LBJvZY_r7tI8PC1_WNuGozP?usp=drive_link)**.
 
 Для запуска ноутбуков скопируйте содержимое в локальную директорию `data/`:
 * `data/raw/` — 30 исходных текстовых файлов NOAA за 2021–2025 гг. (>1.12 млн 10-минутных записей).
