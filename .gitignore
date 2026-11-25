@@ -1,0 +1,24 @@
+# Project Data & Saved Models (stored on Google Drive)
+data/
+models/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS Specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
